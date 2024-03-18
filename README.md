@@ -2,6 +2,8 @@
 
 TODO:
 
+
+0) https://faucets.chain.link/sepolia
 1) https://www.alchemy.com/faucets/ethereum-sepolia
 2) https://dashboard.alchemy.com/apps/
 
